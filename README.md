@@ -1,1 +1,3 @@
-# cplusplus
+# C++
+# RockBell
+# OMSU IMIT
